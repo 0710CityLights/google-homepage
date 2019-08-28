@@ -1,5 +1,22 @@
-.logo {
+#logo {
 
   text-align: center;
+
+}
+
+#textbox {
+  
+  text-align: center;
+
+
+}
+
+input {
+  
+    border-radius: 25px;
+    border: 1px solid #d3d3d3;
+    padding: 20px; 
+    width: 30%;
+    height: 1px;
 
 }
